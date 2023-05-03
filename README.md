@@ -1,6 +1,6 @@
 #Skip all below steps and just ask me to send you the .exe file for this as Github doesn't allow to upload files larger than 25MB, drop a mail at: manishlamba002@gmail.com, and i'll be more than happy to help you out.
-#Any commits and suggestions are welcome
-#Want to explore the web version of free option chain, go to www.bullopear.com for that and want to see more beautiful version of open interest analysis go to youtube and search for 'Bullopear' channel, and feel free to drop any recommendations in comments section.
+**Any commits and suggestions are welcome**
+**Want to explore the web version of free option chain, go to www.bullopear.com for that and want to see more beautiful version of open interest analysis go to youtube and search for 'Bullopear' channel, and feel free to drop any recommendations in comments section.**
 
 # Option_Open_Interest
 To show the open interest and change in open interest for 'NIFTY', 'BANKNIFTY', 'FINNIFTY', 'MIDCPNIFTY', 'USDINR', 'RELIANCE'
